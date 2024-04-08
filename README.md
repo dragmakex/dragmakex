@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **blockchain development**
 
-- 📝 I regularly write articles on [alxstai.com](alxstai.com)
+- 📝 I regularly write articles on [alxstai.com](http://alxstai.com)
 
 - 💬 Ask me about **anything!**
 
