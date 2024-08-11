@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **alxstaikov@gmail.com**
+- 📫 How to reach me **@alxstai on Farcaster or X**
 
 
 <h3 align="left">Connect with me:</h3>
