@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragmakex" alt="dragmakex" /></a> </p>
 
-- 🌱 I’m currently learning **Farcaster frames**
+- 🌱 I’m currently learning **Farcaster frames, Rust for SCs and React Native**
 
 - 📝 I regularly write articles on [alxstai.com](http://alxstai.com)
 
