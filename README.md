@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Passionate about blockchains!</h3>
+<h3 align="center">blockchain tech, striving to be irl Pirate King, IWDWD for life (✯◡✯)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragmakex&label=Visitors&color=ccccff&style=flat" alt="dragmakex" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [alxstai.com](http://alxstai.com)
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **anything, but mostly blockchain topics!**
 
 - 📫 How to reach me **@alxstai on Farcaster or X**
 
