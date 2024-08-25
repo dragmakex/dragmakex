@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">blockchain tech, striving to be irl Pirate King, IWDWD for life (✯◡✯)</h3>
+<h3 align="center">blockchain tech, striving to be irl Pirate King, iwdwd for life (✯◡✯)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragmakex&label=Visitors&color=ccccff&style=flat" alt="dragmakex" /> </p>
 
