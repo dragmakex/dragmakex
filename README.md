@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alxstai" target="blank"><img src="https://img.shields.io/twitter/follow/alxstai?logo=twitter&style=for-the-badge" alt="alxstai" /></a> </p>
 
-- 🔭 I’m currently working on **rwa fintech startup**
+- 🔭 I’m currently working on a **rwa fintech startup**
 
 - 🌱 I’m currently learning **Farcaster frames and tools, Smart Contracts, React Native and NestJS**
 
