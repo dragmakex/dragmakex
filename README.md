@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any blockchain project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dragmakex](https://github.com/dragmakex)
+- 👨‍💻 All of my projects are available [here!](https://github.com/dragmakex)
 
 - 📝 I regularly write articles on [alxstai.com](alxstai.com)
 
