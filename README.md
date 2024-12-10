@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, I'm alex</h1>
+<h1 align="center">hi, I'm alex</h1>
 <h3 align="center">blockchain tech ◦ iwdwd for life (✯◡✯)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragmakex&label=Visitors&color=b017b0&style=flat" alt="dragmakex" /> </p>
