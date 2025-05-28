@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a **rwa fintech startup**
 
-- 🌱 I’m currently learning **Farcaster frames and tools, Smart Contracts, React Native and NestJS**
+- 🌱 I’m currently learning **Farcaster frames and tools & Rust Smart Contracts**
 
 - 👯 I’m looking to collaborate on **any blockchain project**
 
