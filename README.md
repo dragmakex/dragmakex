@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/alxstai" target="blank"><img src="https://img.shields.io/twitter/follow/alxstai?logo=twitter&style=for-the-badge" alt="alxstai" /></a> </p>
 
-- 🔭 I’m currently working on a **rwa fintech startup**
+- 🔭 I’m currently working on **a lot of things**
 
-- 🌱 I’m currently learning **Farcaster frames and tools & Rust Smart Contracts**
+- 🌱 I’m currently learning **Farcaster & Rust Smart Contracts**
 
 - 👯 I’m looking to collaborate on **any blockchain project**
 
