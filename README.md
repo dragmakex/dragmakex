@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragmakex&label=Visitors&color=b017b0&style=flat" alt="dragmakex" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dragmakex&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <a href="https://twitter.com/alxstai" target="blank"><img src="https://img.shields.io/twitter/follow/alxstai?logo=twitter&style=for-the-badge" alt="alxstai" /></a> </p>
 
 - 🔭 I’m currently working on **a lot of things**
