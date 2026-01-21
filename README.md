@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DeFi stuff and lots of crypto(logy)**
 
-- 👯 I’m looking to collaborate on **any blockchain project**
+- 👯 I’m looking to collaborate on **any interesting blockchain project**
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/dragmakex)
 
