@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a lot of things**
 
-- 🌱 I’m currently learning **DeFi stuff and lots of crypto(logy)**
+- 🌱 I’m currently learning **DeFi stuff and crypto(logy)**
 
 - 👯 I’m looking to collaborate on **any interesting blockchain project**
 
